@@ -1,0 +1,11 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":335438840, "collectionId":335438816, "trackId":335438967, "artistName":"Maher Zain", "collectionName":"Thank You Allah", "trackName":"Ya Nabi Salam Alayka", "collectionCensoredName":"Thank You Allah", "trackCensoredName":"Ya Nabi Salam Alayka", "artistViewUrl":"https://music.apple.com/us/artist/maher-zain/335438840?uo=4", "collectionViewUrl":"https://music.apple.com/us/album/ya-nabi-salam-alayka/335438816?i=335438967&uo=4", "trackViewUrl":"https://music.apple.com/us/album/ya-nabi-salam-alayka/335438816?i=335438967&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/81/75/27817575-57bc-6889-4d88-d3cdbf5f84cd/mzaf_1897626761425666704.plus.aac.p.m4a", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/28/ab/fb28ab10-826d-3043-f261-356d93035f62/5060071981825.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/28/ab/fb28ab10-826d-3043-f261-356d93035f62/5060071981825.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fb/28/ab/fb28ab10-826d-3043-f261-356d93035f62/5060071981825.jpg/100x100bb.jpg", "collectionPrice":9.99, "trackPrice":0.99, "releaseDate":"2009-10-30T12:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":15, "trackNumber":2, "trackTimeMillis":298947, "country":"USA", "currency":"USD", "primaryGenreName":"R&B/Soul", "isStreamable":true}]
+}
+
+
